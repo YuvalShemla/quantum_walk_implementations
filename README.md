@@ -5,4 +5,4 @@ Code to implement continuous and discrete quantum walks on a graph.
 - **Discrete walks** are done using a Grover coin to decide the next state to evolve to. Probably not too interesting as it will result in quandratic speedup.
 
 ## Codefiles
-- <code>walk_visual.ipynb</code> gives a visual on the differences between random and quantum walks. The quantum walks are classically simulated.
+- <code>qwalk_simulator.ipynb</code> gives a visual on the differences between random and quantum walks. The quantum walks are classically simulated.
